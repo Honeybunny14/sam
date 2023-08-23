@@ -1,0 +1,27 @@
+aws console   ramya29
+id:ramya36.k@gmail.com
+passwrd:Ramya@29
+
+ramya36.g@gmail.com
+
+Ramya@29
+
+Pailla@123
+673270
+
+ramya36.K@gmail.com
+github password:Honeybunny@14
+
+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   (old account)
+
+https://github.com/krishnain/Ansible_November.git
+https://github.com/intelliqit
+
+/var/lib/jenkins/workspace/scripted pipeline
+
+
+
+1.when i gave git add .
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+
+
